@@ -1,0 +1,77 @@
+{
+	"questions": [
+		{
+			"q": "¿Cuántos {} luchadores hay en Street Fighter II?",
+			"a1": "12",
+			"a2": "6",
+			"a3": "10",
+			"a4": "8",
+			"g1": "Street figher ese en el que se cagan a piñas",
+			"g2": "2 es porque es el segundo",
+			"g3": "luchadores lllllllll"
+		},
+		{
+			"q": "¿Cuál fue la primera consola de PlayStation?",
+			"a1": "PS1",
+			"a2": "PlayStation Origin",
+			"a3": "Playstation One",
+			"a4": "PS Proyect"
+		},
+		{
+			"q": "¿Cómo se llama la ciudad en la que desenvuelve Resident Evil?",
+			"a1": "Racoon City",
+			"a2": "New York",
+			"a3": "",
+			"a4": ""
+		},
+		{
+			"q": "¿Cuál es el número de serie del protagonista de Hitman?",
+			"a1": "47",
+			"a2": "57",
+			"a3": "007",
+			"a4": ""
+		},
+		{
+			"q": "¿En qué plataforma se lanzó originalmente Starcrat?",
+			"a1": "PC",
+			"a2": "PS1",
+			"a3": "",
+			"a4": ""
+		},
+		{
+			"q": "¿Qué significa la M en la clasificación de contenido?",
+			"a1": "17+",
+			"a2": "14+",
+			"a3": "21+",
+			"a4": ""
+		},
+		{
+			"q": "¿Qué significa la M en la clasificación de contenido?",
+			"a1": "17+",
+			"a2": "14+",
+			"a3": "21+",
+			"a4": ""
+		},
+		{
+			"q": "¿Qué significa la M en la clasificación de contenido?",
+			"a1": "17+",
+			"a2": "14+",
+			"a3": "21+",
+			"a4": ""
+		},
+		{
+			"q": "¿Qué significa la M en la clasificación de contenido?",
+			"a1": "17+",
+			"a2": "14+",
+			"a3": "21+",
+			"a4": ""
+		},
+		{
+			"q": "¿Qué significa la M en la clasificación de contenido?",
+			"a1": "17+",
+			"a2": "14+",
+			"a3": "21+",
+			"a4": ""
+		}
+	]
+}
